@@ -19,7 +19,7 @@ List of libraries need to be installed to execute the code:
 
 ## Notes
 * Dataset contains only 1 image pair. Images can't be shared due to confidentiality.
-* The results can be view in the literature survey.
+* The results can be viewed in the literature survey.
 * Custom dataset can be tested by running the jupyter-notebook and setting the image path.
 
 Feel free to create github issues. 
